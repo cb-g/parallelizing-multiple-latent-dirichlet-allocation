@@ -1,1 +1,1 @@
-# parallelizing-latent-dirichlet-allocation
+# parallelizing-multiple-latent-dirichlet-allocation
